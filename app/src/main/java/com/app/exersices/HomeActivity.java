@@ -38,6 +38,7 @@ public class HomeActivity extends BaseActivity {
             R.drawable.efex1, R.drawable.erreee1,R.drawable.gbvf,R.drawable.ytre
 
     };
+    //touy phonegkeosy mr
 
 
     CardView  exersice_7,exersice_11,exersice_1,card_pos,exersice_6,exersice_3,exersice_4,exersice_5,exersice_8,exersice_9,exersice_10,exersice_12,exersice_13,exersice_14,exersice_15;
